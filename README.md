@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antoniosai-prod / @antoniosai
 - 👀 I’m interested in in software development, particularly in Java, Python, Typescript and exploring new technologies
 - 🌱 I’m currently learning advanced data structures, software architectures and algorithms to enhance my coding skills
-- 📫 How to reach me: You can connect with me on LinkedIn https://www.linkedin.com/in/antoniosai/ or Send me an Email to antoniosai.prod@gmail.com
+- 📫 How to reach me: You can connect with me on LinkedIn https://www.linkedin.com/in/antoniosai/ or Send me an Email to finallyantonio@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact:  I enjoy solving logic puzzles in my free time and I'm passionate about creating efficient and scalable software solutions. I'm a Mechanical Keyboard Enthusiast
 
